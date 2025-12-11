@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Iraq National Team Goalscorers</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Iraq National Team — Goalscorers</h1>
+    <p class="lead">Browse goalscorers, their caps and goals. Edit <code>data/players.json</code> to add full data.</p>
+  </header>
+
+  <main class="container">
+    <div class="controls">
+      <input id="search" placeholder="Search player name" />
+      <label>Sort:
+        <select id="sort">
+          <option value="goals_desc">Goals ↓</option>
+          <option value="goals_asc">Goals ↑</option>
+          <option value="caps_desc">Caps ↓</option>
+          <option value="caps_asc">Caps ↑</option>
+          <option value="name_asc">Name A→Z</option>
+        </select>
+      </label>
+    </div>
+
+    <section id="players" class="grid" aria-live="polite">Loading players…</section>
+  </main>
+
+  <footer class="site-footer">
+    <small>Data: editable in <code>data/players.json</code>. Images: <code>images/</code>.</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

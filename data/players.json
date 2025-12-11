@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "Rahim Karim",
+    "caps": 21,
+    "goals": 0,
+    "image": "images/Rahim_Karim.jpg"
+  },
+  {
+    "name": "Falah Hassan",
+    "caps": 103,
+    "goals": 29,
+    "image": "images/Falah_Hassan.jpg"
+  },
+  {
+    "name": "Iyad Makki",
+    "caps": 6,
+    "goals": 0,
+    "image": "images/Iyad_Makki.jpg"
+  },
+  {
+    "name": "Sabah Jeayer",
+    "caps": 21,
+    "goals": 4,
+    "image": "images/Sabah_Jeayer.svg"
+  },
+  {
+    "name": "Jabbar Hashim",
+    "caps": 30,
+    "goals": 2,
+    "image": "images/Jabbar_Hashim.svg"
+  },
+  {
+    "name": "Abbas Obeid",
+    "caps": 21,
+    "goals": 7,
+    "image": "images/Abbas_Obeid.svg"
+  },
+  {
+    "name": "Sadiq Saadoun",
+    "caps": 8,
+    "goals": 1,
+    "image": "images/Sadiq_Saadoun.svg"
+  },
+  {
+    "name": "Hussam Fawzi",
+    "caps": 44,
+    "goals": 17,
+    "image": "images/Hussam_Fawzi.svg"
+  },
+  {
+    "name": "Haidar Mahmoud",
+    "caps": 54,
+    "goals": 7,
+    "image": "images/Haidar_Mahmoud.svg"
+  },
+  {
+    "name": "Husham Mohammed",
+    "caps": 35,
+    "goals": 18,
+    "image": "images/Husham_Mohammed.svg"
+  },
+  {
+    "name": "Abdul-Wahab Abu Al-Hail",
+    "caps": 67,
+    "goals": 8,
+    "image": "images/Abdul-Wahab_Abu_Al-Hail.jpg"
+  },
+  {
+    "name": "Jassim Swadi",
+    "caps": 21,
+    "goals": 4,
+    "image": "images/Jassim_Swadi.svg"
+  },
+  {
+    "name": "Razzaq Farhan",
+    "caps": 60,
+    "goals": 24,
+    "image": "images/Razzaq_Farhan.svg"
+  },
+  {
+    "name": "Ahmad Abdul-Jabar",
+    "caps": 27,
+    "goals": 0,
+    "image": "images/Ahmad_Abdul-Jabar.svg"
+  },
+  {
+    "name": "Hashim Khamis",
+    "caps": 9,
+    "goals": 0,
+    "image": "images/Hashim_Khamis.svg"
+  },
+  {
+    "name": "Ziyad Tariq",
+    "caps": 12,
+    "goals": 1,
+    "image": "images/Ziyad_Tariq.jpg"
+  },
+  {
+    "name": "Amer Abdul Wahab",
+    "caps": 14,
+    "goals": 0,
+    "image": "images/Amer_Abdul_Wahab.svg"
+  },
+  {
+    "name": "Hamza Hadi",
+    "caps": 19,
+    "goals": 2,
+    "image": "images/Hamza_Hadi.svg"
+  },
+  {
+    "name": "Emad Mohammed",
+    "caps": 103,
+    "goals": 27,
+    "image": "images/Emad_Mohammed.svg"
+  },
+  {
+    "name": "Haidar Abdul-Razzaq",
+    "caps": 24,
+    "goals": 0,
+    "image": "images/Haidar_Abdul-Razzaq.svg"
+  },
+  {
+    "name": "Jassim Ghulam",
+    "caps": 24,
+    "goals": 1,
+    "image": "images/Jassim_Ghulam.svg"
+  },
+  {
+    "name": "Ahmed Ali Jaber",
+    "caps": 14,
+    "goals": 0,
+    "image": "images/Ahmed_Ali_Jaber.svg"
+  },
+  {
+    "name": "Hawar Mulla Mohammed",
+    "caps": 113,
+    "goals": 20,
+    "image": "images/Hawar_Mulla_Mohammed.svg"
+  },
+  {
+    "name": "Bassim Abbas",
+    "caps": 90,
+    "goals": 1,
+    "image": "images/Bassim_Abbas.jpg"
+  },
+  {
+    "name": "Nashat Akram",
+    "caps": 113,
+    "goals": 17,
+    "image": "images/Nashat_Akram.jpg"
+  },
+  {
+    "name": "Mahdi Karim",
+    "caps": 110,
+    "goals": 12,
+    "image": "images/Mahdi_Karim.svg"
+  },
+  {
+    "name": "Younis Mahmoud",
+    "caps": 148,
+    "goals": 57,
+    "image": "images/Younis_Mahmoud.jpg"
+  },
+  {
+    "name": "Noor Sabri",
+    "caps": 100,
+    "goals": 0,
+    "image": "images/Noor_Sabri.jpg"
+  },
+  {
+    "name": "Ahmad Mnajed",
+    "caps": 36,
+    "goals": 10,
+    "image": "images/Ahmad_Mnajed.svg"
+  },
+  {
+    "name": "Uday Taleb",
+    "caps": 5,
+    "goals": 0,
+    "image": "images/Uday_Taleb.svg"
+  },
+  {
+    "name": "Luay Salah",
+    "caps": 23,
+    "goals": 4,
+    "image": "images/Luay_Salah.svg"
+  },
+  {
+    "name": "Qusay Munir",
+    "caps": 87,
+    "goals": 6,
+    "image": "images/Qusay_Munir.jpg"
+  },
+  {
+    "name": "Salih Sadir",
+    "caps": 61,
+    "goals": 7,
+    "image": "images/Salih_Sadir.svg"
+  },
+  {
+    "name": "Haitham Kadhim",
+    "caps": 38,
+    "goals": 0,
+    "image": "images/Haitham_Kadhim.svg"
+  },
+  {
+    "name": "Haidar Abdul-Amir",
+    "caps": 50,
+    "goals": 2,
+    "image": "images/Haidar_Abdul-Amir.svg"
+  },
+  {
+    "name": "Haidar Sabah",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Haidar_Sabah.svg"
+  },
+  {
+    "name": "Saad Attiya",
+    "caps": 16,
+    "goals": 1,
+    "image": "images/Saad_Attiya.svg"
+  },
+  {
+    "name": "Yassir Raad",
+    "caps": 29,
+    "goals": 0,
+    "image": "images/Yassir_Raad.svg"
+  },
+  {
+    "name": "Sarmad Rasheed",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Sarmad_Rasheed.svg"
+  },
+  {
+    "name": "Mohammed Nasser",
+    "caps": 19,
+    "goals": 6,
+    "image": "images/Mohammed_Nasser.svg"
+  },
+  {
+    "name": "Muayad Khalid",
+    "caps": 4,
+    "goals": 0,
+    "image": "images/Muayad_Khalid.svg"
+  },
+  {
+    "name": "Wissam Zaki",
+    "caps": 14,
+    "goals": 0,
+    "image": "images/Wissam_Zaki.svg"
+  },
+  {
+    "name": "Safwan Abdul-Ghani",
+    "caps": 7,
+    "goals": 0,
+    "image": "images/Safwan_Abdul-Ghani.svg"
+  },
+  {
+    "name": "Ali Hussein Rehema",
+    "caps": 113,
+    "goals": 2,
+    "image": "images/Ali_Hussein_Rehema.svg"
+  },
+  {
+    "name": "Wissam Gassid",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Wissam_Gassid.svg"
+  },
+  {
+    "name": "Khalid Mushir",
+    "caps": 24,
+    "goals": 0,
+    "image": "images/Khalid_Mushir.svg"
+  },
+  {
+    "name": "Nawaf Falah",
+    "caps": 5,
+    "goals": 0,
+    "image": "images/Nawaf_Falah.svg"
+  },
+  {
+    "name": "Samal Saeed",
+    "caps": 69,
+    "goals": 2,
+    "image": "images/Samal_Saeed.jpg"
+  },
+  {
+    "name": "Wissam Kadhim",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Wissam_Kadhim.svg"
+  },
+  {
+    "name": "Sarhang Muhsin",
+    "caps": 5,
+    "goals": 0,
+    "image": "images/Sarhang_Muhsin.jpg"
+  },
+  {
+    "name": "Alaa Abdul-Hussein",
+    "caps": 4,
+    "goals": 0,
+    "image": "images/Alaa_Abdul-Hussein.svg"
+  },
+  {
+    "name": "Khaldoun Ibrahim",
+    "caps": 34,
+    "goals": 0,
+    "image": "images/Khaldoun_Ibrahim.svg"
+  },
+  {
+    "name": "Ali Abbas",
+    "caps": 12,
+    "goals": 0,
+    "image": "images/Ali_Abbas.jpg"
+  },
+  {
+    "name": "Mohammed Gassid",
+    "caps": 69,
+    "goals": 0,
+    "image": "images/Mohammed_Gassid.svg"
+  },
+  {
+    "name": "Halgurd Mulla Mohammed",
+    "caps": 9,
+    "goals": 0,
+    "image": "images/Halgurd_Mulla_Mohammed.svg"
+  },
+  {
+    "name": "Ahmed Abid Ali",
+    "caps": 17,
+    "goals": 0,
+    "image": "images/Ahmed_Abid_Ali.svg"
+  },
+  {
+    "name": "Mohammed Ali Karim",
+    "caps": 25,
+    "goals": 0,
+    "image": "images/Mohammed_Ali_Karim.svg"
+  },
+  {
+    "name": "Alaa Abdul-Zahra",
+    "caps": 126,
+    "goals": 17,
+    "image": "images/Alaa_Abdul-Zahra.jpg"
+  },
+  {
+    "name": "Karrar Jassim",
+    "caps": 64,
+    "goals": 6,
+    "image": "images/Karrar_Jassim.jpg"
+  },
+  {
+    "name": "Nabeel Abbas",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Nabeel_Abbas.svg"
+  },
+  {
+    "name": "Mustafa Karim",
+    "caps": 48,
+    "goals": 7,
+    "image": "images/Mustafa_Karim.svg"
+  },
+  {
+    "name": "Salam Shaker",
+    "caps": 93,
+    "goals": 4,
+    "image": "images/Salam_Shaker.jpg"
+  },
+  {
+    "name": "Samer Saeed",
+    "caps": 25,
+    "goals": 0,
+    "image": "images/Samer_Saeed.svg"
+  },
+  {
+    "name": "Ali Salah",
+    "caps": 7,
+    "goals": 0,
+    "image": "images/Ali_Salah.svg"
+  },
+  {
+    "name": "Ous Ibrahim",
+    "caps": 9,
+    "goals": 0,
+    "image": "images/Ous_Ibrahim.svg"
+  },
+  {
+    "name": "Jabir Shakir",
+    "caps": 1,
+    "goals": 1,
+    "image": "images/Jabir_Shakir.svg"
+  },
+  {
+    "name": "Muslim Mubarak",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Muslim_Mubarak.svg"
+  },
+  {
+    "name": "Amjad Kalaf",
+    "caps": 28,
+    "goals": 1,
+    "image": "images/Amjad_Kalaf.jpg"
+  },
+  {
+    "name": "Herdi Noor Al-Deen",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Herdi_Noor_Al-Deen.svg"
+  },
+  {
+    "name": "Hussein Abdul-Wahid Waham",
+    "caps": 7,
+    "goals": 0,
+    "image": "images/Hussein_Abdul-Wahid_Waham.svg"
+  },
+  {
+    "name": "Ahmed Ayad",
+    "caps": 15,
+    "goals": 0,
+    "image": "images/Ahmed_Ayad.svg"
+  },
+  {
+    "name": "Nadim Karim",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Nadim_Karim.svg"
+  },
+  {
+    "name": "Essam Yassin",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Essam_Yassin.svg"
+  },
+  {
+    "name": "Alaa Gatea",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Alaa_Gatea.svg"
+  },
+  {
+    "name": "Muthana Khalid",
+    "caps": 40,
+    "goals": 0,
+    "image": "images/Muthana_Khalid.svg"
+  },
+  {
+    "name": "Mohammed Qabel",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Mohammed_Qabel.svg"
+  },
+  {
+    "name": "Amjad Radhi",
+    "caps": 35,
+    "goals": 2,
+    "image": "images/Amjad_Radhi.svg"
+  },
+  {
+    "name": "Mohammed Abdul-Zahra",
+    "caps": 2,
+    "goals": 1,
+    "image": "images/Mohammed_Abdul-Zahra.svg"
+  },
+  {
+    "name": "Ali Mutashar",
+    "caps": 4,
+    "goals": 0,
+    "image": "images/Ali_Mutashar.svg"
+  },
+  {
+    "name": "Saad Abdul-Amir",
+    "caps": 86,
+    "goals": 4,
+    "image": "images/Saad_Abdul-Amir.jpg"
+  },
+  {
+    "name": "Mustafa Ahmad",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Mustafa_Ahmad.jpg"
+  },
+  {
+    "name": "Ahmed Ibrahim",
+    "caps": 118,
+    "goals": 5,
+    "image": "images/Ahmed_Ibrahim.jpg"
+  },
+  {
+    "name": "Ammar Gaiym",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Ammar_Gaiym.svg"
+  },
+  {
+    "name": "Haidar Raad",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Haidar_Raad.svg"
+  },
+  {
+    "name": "Mohammed Jabbar Rubat",
+    "caps": 4,
+    "goals": 0,
+    "image": "images/placeholder.svg"
+  },
+  {
+    "name": "Jalal Hassan",
+    "caps": 100,
+    "goals": 0,
+    "image": "images/Jalal_Hassan.jpg"
+  },
+  {
+    "name": "Osama Rashid",
+    "caps": 43,
+    "goals": 2,
+    "image": "images/Osama_Rashid.svg"
+  },
+  {
+    "name": "Hussam Kadhim",
+    "caps": 24,
+    "goals": 0,
+    "image": "images/placeholder.svg"
+  },
+  {
+    "name": "Ibrahim Kamil",
+    "caps": 5,
+    "goals": 0,
+    "image": "images/Ibrahim_Kamil.svg"
+  },
+  {
+    "name": "Hammadi Ahmad",
+    "caps": 42,
+    "goals": 6,
+    "image": "images/Hammadi_Ahmad.jpg"
+  },
+  {
+    "name": "Waleed Bahar",
+    "caps": 6,
+    "goals": 0,
+    "image": "images/Waleed_Bahar.svg"
+  },
+  {
+    "name": "Abbas Rehema",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/placeholder.svg"
+  },
+  {
+    "name": "Ahmed Yasin",
+    "caps": 71,
+    "goals": 6,
+    "image": "images/Ahmed_Yasin.jpg"
+  },
+  {
+    "name": "Ali Bahjat",
+    "caps": 37,
+    "goals": 0,
+    "image": "images/Ali_Bahjat.svg"
+  },
+  {
+    "name": "Waleed Salem",
+    "caps": 49,
+    "goals": 1,
+    "image": "images/Waleed_Salem.svg"
+  },
+  {
+    "name": "Hussam Ibrahim",
+    "caps": 8,
+    "goals": 0,
+    "image": "images/Hussam_Ibrahim.svg"
+  },
+  {
+    "name": "Nabeel Sabah",
+    "caps": 11,
+    "goals": 0,
+    "image": "images/Nabeel_Sabah.svg"
+  },
+  {
+    "name": "Saif Salman",
+    "caps": 37,
+    "goals": 0,
+    "image": "images/Saif_Salman.jpg"
+  },
+  {
+    "name": "Ali Adnan",
+    "caps": 96,
+    "goals": 7,
+    "image": "images/Ali_Adnan.jpg"
+  },
+  {
+    "name": "Yassir Abdul-Mohsen",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Yassir_Abdul-Mohsen.svg"
+  },
+  {
+    "name": "Ammar Abdul-Hussein",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Ammar_Abdul-Hussein.svg"
+  },
+  {
+    "name": "Mohannad Abdul-Raheem",
+    "caps": 50,
+    "goals": 11,
+    "image": "images/Mohannad_Abdul-Raheem.jpg"
+  },
+  {
+    "name": "Humam Tariq",
+    "caps": 77,
+    "goals": 3,
+    "image": "images/Humam_Tariq.jpg"
+  },
+  {
+    "name": "Ahmad Abbas",
+    "caps": 5,
+    "goals": 0,
+    "image": "images/Ahmad_Abbas.jpg"
+  },
+  {
+    "name": "Dhurgham Ismail",
+    "caps": 71,
+    "goals": 4,
+    "image": "images/Dhurgham_Ismail.jpg"
+  },
+  {
+    "name": "Mustafa Nadhim",
+    "caps": 43,
+    "goals": 5,
+    "image": "images/Mustafa_Nadhim.jpg"
+  },
+  {
+    "name": "Ahmad Fadhel",
+    "caps": 9,
+    "goals": 0,
+    "image": "images/Ahmad_Fadhel.svg"
+  },
+  {
+    "name": "Osama Ali",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Osama_Ali.svg"
+  },
+  {
+    "name": "Ali Faez",
+    "caps": 54,
+    "goals": 4,
+    "image": "images/Ali_Faez.jpg"
+  },
+  {
+    "name": "Mahdi Kamil",
+    "caps": 52,
+    "goals": 3,
+    "image": "images/Mahdi_Kamil.svg"
+  },
+  {
+    "name": "Ali Qasim Mshari",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Ali_Qasim_Mshari.svg"
+  },
+  {
+    "name": "Mohammed Hameed",
+    "caps": 37,
+    "goals": 0,
+    "image": "images/Mohammed_Hameed.jpg"
+  },
+  {
+    "name": "Mohannad Qasim",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Mohannad_Qasim.svg"
+  },
+  {
+    "name": "Jawad Kadhim",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Jawad_Kadhim.svg"
+  },
+  {
+    "name": "Ali Husni",
+    "caps": 28,
+    "goals": 3,
+    "image": "images/Ali_Husni.svg"
+  },
+  {
+    "name": "Marwan Hussein",
+    "caps": 11,
+    "goals": 0,
+    "image": "images/Marwan_Hussein.svg"
+  },
+  {
+    "name": "Yaser Kasim",
+    "caps": 21,
+    "goals": 3,
+    "image": "images/Yaser_Kasim.jpg"
+  },
+  {
+    "name": "Bashar Rasan",
+    "caps": 65,
+    "goals": 4,
+    "image": "images/Bashar_Rasan.jpg"
+  },
+  {
+    "name": "Farhan Shakor",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Farhan_Shakor.svg"
+  },
+  {
+    "name": "Sameh Saeed",
+    "caps": 17,
+    "goals": 0,
+    "image": "images/Sameh_Saeed.svg"
+  },
+  {
+    "name": "Hussein Abdul-Wahid Khalaf",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Hussein_Abdul-Wahid_Khalaf.svg"
+  },
+  {
+    "name": "Hawbir Mustafa",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Hawbir_Mustafa.svg"
+  },
+  {
+    "name": "Hussein Ali Wahid",
+    "caps": 3,
+    "goals": 1,
+    "image": "images/Hussein_Ali_Wahid.svg"
+  },
+  {
+    "name": "Mustafa Jawda",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Mustafa_Jawda.svg"
+  },
+  {
+    "name": "Justin Meram",
+    "caps": 36,
+    "goals": 4,
+    "image": "images/Justin_Meram.jpg"
+  },
+  {
+    "name": "Abdul-Qadir Tariq",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Abdul-Qadir_Tariq.svg"
+  },
+  {
+    "name": "Arjan Mustafa",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/placeholder.svg"
+  },
+  {
+    "name": "Rebin Sulaka",
+    "caps": 54,
+    "goals": 1,
+    "image": "images/Rebin_Sulaka.jpg"
+  },
+  {
+    "name": "Amjad Waleed",
+    "caps": 6,
+    "goals": 0,
+    "image": "images/Amjad_Waleed.svg"
+  },
+  {
+    "name": "Hussein Falah",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Hussein_Falah.svg"
+  },
+  {
+    "name": "Saad Natiq",
+    "caps": 43,
+    "goals": 1,
+    "image": "images/Saad_Natiq.jpg"
+  },
+  {
+    "name": "Ali Qasim Hameed",
+    "caps": 5,
+    "goals": 1,
+    "image": "images/Ali_Qasim_Hameed.svg"
+  },
+  {
+    "name": "Ayman Hussein",
+    "caps": 92,
+    "goals": 32,
+    "image": "images/Ayman_Hussein.svg"
+  },
+  {
+    "name": "Hamza Adnan",
+    "caps": 6,
+    "goals": 0,
+    "image": "images/Hamza_Adnan.svg"
+  },
+  {
+    "name": "Safa Jabbar",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Safa_Jabbar.svg"
+  },
+  {
+    "name": "Faisal Jassim",
+    "caps": 6,
+    "goals": 0,
+    "image": "images/placeholder.svg"
+  },
+  {
+    "name": "Herdi Siamand",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Herdi_Siamand.svg"
+  },
+  {
+    "name": "Amjad Attwan",
+    "caps": 89,
+    "goals": 5,
+    "image": "images/Amjad_Attwan.jpg"
+  },
+  {
+    "name": "Bayar Abubakir",
+    "caps": 1,
+    "goals": 1,
+    "image": "images/Bayar_Abubakir.svg"
+  },
+  {
+    "name": "jassimAli Lateef",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/jassimAli_Lateef.svg"
+  },
+  {
+    "name": "Karrar Mohammed",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Karrar_Mohammed.svg"
+  },
+  {
+    "name": "Abbas Qasim",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Abbas_Qasim.jpg"
+  },
+  {
+    "name": "Wesam Malik",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Wesam_Malik.svg"
+  },
+  {
+    "name": "Miran Khesro",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/Miran_Khesro.jpg"
+  },
+  {
+    "name": "Jassim Mohammed",
+    "caps": 5,
+    "goals": 1,
+    "image": "images/Jassim_Mohammed.jpg"
+  },
+  {
+    "name": "Mazin Fayyadh",
+    "caps": 14,
+    "goals": 1,
+    "image": "images/Mazin_Fayyadh.svg"
+  },
+  {
+    "name": "Mohammed Jabbar Shokan",
+    "caps": 9,
+    "goals": 1,
+    "image": "images/Mohammed_Jabbar_Shokan.svg"
+  },
+  {
+    "name": "Allan Mohideen",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Allan_Mohideen.jpg"
+  },
+  {
+    "name": "Alaa Mhawi",
+    "caps": 48,
+    "goals": 0,
+    "image": "images/Alaa_Mhawi.jpg"
+  },
+  {
+    "name": "Brwa Nouri",
+    "caps": 9,
+    "goals": 1,
+    "image": "images/Brwa_Nouri.jpg"
+  },
+  {
+    "name": "Fahad Talib",
+    "caps": 19,
+    "goals": 0,
+    "image": "images/Fahad_Talib.png"
+  },
+  {
+    "name": "Ahmed Abdul-Ridha",
+    "caps": 4,
+    "goals": 0,
+    "image": "images/Ahmed_Abdul-Ridha.svg"
+  },
+  {
+    "name": "Hussein Ali Al-Saedi",
+    "caps": 52,
+    "goals": 6,
+    "image": "images/Hussein_Ali_Al-Saedi.jpg"
+  },
+  {
+    "name": "Ahmed Jalal",
+    "caps": 3,
+    "goals": 0,
+    "image": "images/Ahmed_Jalal.svg"
+  },
+  {
+    "name": "Sajad Hussein",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Sajad_Hussein.svg"
+  },
+  {
+    "name": "Mohanad Ali",
+    "caps": 67,
+    "goals": 27,
+    "image": "images/Mohanad_Ali.jpg"
+  },
+  {
+    "name": "Mustafa Mohammed",
+    "caps": 16,
+    "goals": 0,
+    "image": "images/Mustafa_Mohammed.svg"
+  },
+  {
+    "name": "Emad Mohsin",
+    "caps": 2,
+    "goals": 1,
+    "image": "images/Emad_Mohsin.svg"
+  },
+  {
+    "name": "Raad Fanar",
+    "caps": 3,
+    "goals": 1,
+    "image": "images/Raad_Fanar.svg"
+  },
+  {
+    "name": "Safaa Hadi",
+    "caps": 40,
+    "goals": 1,
+    "image": "images/Safaa_Hadi.jpg"
+  },
+  {
+    "name": "Ibrahim Bayesh",
+    "caps": 72,
+    "goals": 8,
+    "image": "images/Ibrahim_Bayesh.svg"
+  },
+  {
+    "name": "Frans Putros",
+    "caps": 25,
+    "goals": 0,
+    "image": "images/Frans_Putros.svg"
+  },
+  {
+    "name": "Mohammed Dawood",
+    "caps": 8,
+    "goals": 1,
+    "image": "images/Mohammed_Dawood.svg"
+  },
+  {
+    "name": "Wissam Saadoun",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Wissam_Saadoun.svg"
+  },
+  {
+    "name": "Alaa Abbas",
+    "caps": 27,
+    "goals": 4,
+    "image": "images/Alaa_Abbas.svg"
+  },
+  {
+    "name": "Maitham Jabbar",
+    "caps": 21,
+    "goals": 0,
+    "image": "images/Maitham_Jabbar.svg"
+  },
+  {
+    "name": "Karrar Nabeel",
+    "caps": 6,
+    "goals": 0,
+    "image": "images/Karrar_Nabeel.svg"
+  },
+  {
+    "name": "Mohammed Qasim",
+    "caps": 26,
+    "goals": 2,
+    "image": "images/Mohammed_Qasim.jpg"
+  },
+  {
+    "name": "Uday Shehab",
+    "caps": 1,
+    "goals": 0,
+    "image": "images/Uday_Shehab.svg"
+  },
+  {
+    "name": "Najm Shwan",
+    "caps": 2,
+    "goals": 0,
+    "image": "images/placeholder.svg"
+  }
+]
